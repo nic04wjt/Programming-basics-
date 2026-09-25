@@ -1,12 +1,3 @@
-# =====================================================================
-# HOW TO START A VIRTUAL ENVIRONMENT & INSTALL LIBRARIES (In your Terminal):
-# 
-# 1. Create the environment:  python -m venv env
-# 2. Activate it:
-#    - Windows:               env\Scripts\activate
-#    - Mac/Linux:             source env/bin/activate
-# 3. Install libraries:       pip install pandas numpy matplotlib
-# =====================================================================
 
 import pandas as pd
 import numpy as np
