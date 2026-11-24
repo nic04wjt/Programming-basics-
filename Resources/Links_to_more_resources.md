@@ -6,3 +6,6 @@ https://code.visualstudio.com/docs/sourcecontrol/overview
 
 # VS Code 101
 https://code.visualstudio.com/docs/editing/getting-started/editor-tutorial
+
+# Introduction to Computational Neuroscience
+https://compneuro.neuromatch.io/prereqs/ComputationalNeuroscience.html
